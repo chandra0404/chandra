@@ -1,0 +1,9 @@
+Bug life cycle
+--------------
+if you find any bug (or) issue we will create the ticket in RCT tool,
+that will be in open state (or) doucument state.then it will assign to 
+the RTC manager he will check it will genuire or duplicate.if it is 
+general he will assign to the particular developer will chek it will 
+reproducing or not. if it is reproducing it will give the fix,then again 
+he will assign to the tester then tester will check if it not reproducing
+it is in close state.
